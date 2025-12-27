@@ -18,7 +18,7 @@ The results demonstrate the power of dimensionality reduction methods for decomp
 
 ### Analysis Notebooks
 
-The repository contains **5 Jupyter notebooks** for comprehensive analysis:
+The repository contains **5 Jupyter notebooks** for comprehensive analysis (all these notebooks can be found inside the multiLevels folder):
 
 #### Condition-Specific Analyses
 1. **`analysisBaseline.ipynb`** - Analysis of baseline condition (spontaneous activity)
