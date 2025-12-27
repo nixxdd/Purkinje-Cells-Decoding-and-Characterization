@@ -88,3 +88,9 @@ plotly
 3. Run condition-specific analysis notebooks (`analysisBaseline.ipynb`, `analysisStep.ipynb`, `analysisBurst.ipynb`)
 4. Run comprehensive analysis (`analysisStimulusT.ipynb`)
 5. Generate final results and figures (`results.ipynb`)
+
+## Contact
+
+- **Author**: Stefania Rosciano
+- **Email**: stefania.rosciano01@universitadipavia.it
+- **GitHub**: [@nixxdd](https://github.com/nixxdd)
